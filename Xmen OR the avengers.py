@@ -1,4 +1,5 @@
-#python2
+#!/usr/bin/env python
+
 #Made by ScriptBaby for PragyanCTF 2018
 
 import hashlib
